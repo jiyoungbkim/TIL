@@ -3,6 +3,6 @@
 ## :page_with_curl:카테고리
 
 ### Git
-- cmd를 이용한 git commit()
+- [cmd를 이용한 git commit](https://github.com/jiyoungbkim/TIL/blob/master/Git/local_to_git.md)
 
 README.md 생성후 cmd를 이용한 git commit test
