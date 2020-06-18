@@ -2,7 +2,8 @@
 
 ## :page_with_curl:카테고리
 
-### HTML/CSS
+### HTML/CSS 
+#### [부스트코스] 비전공자를 위한 HTML/CSS
 - [HTML 이해하기](https://github.com/jiyoungbkim/TIL/blob/master/HTML&CSS/html_basic.md)
 - [HTML 태그 요약](https://github.com/jiyoungbkim/TIL/blob/master/HTML&CSS/html_tag.md)
 - [CSS 이해하기](https://github.com/jiyoungbkim/TIL/blob/master/HTML&CSS/css_basic.md)
