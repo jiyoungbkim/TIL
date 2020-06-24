@@ -9,7 +9,7 @@
 - [CSS 이해하기](https://github.com/jiyoungbkim/TIL/blob/master/HTML&CSS/css_basic.md)
 
 ### JavaScript
-- [JavaScript 기초]()
+- [JavaScript 기초](https://github.com/jiyoungbkim/TIL/blob/master/JavaScript/javaScript_basic.md)
 
 ### BACK-END
 ### Git
