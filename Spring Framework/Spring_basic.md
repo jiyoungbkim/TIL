@@ -8,7 +8,6 @@
 - AOP 지원합니다.
 - 스프링은 도메인 논리 코드와 쉽게 분리될 수 있는 구조로 되어 있습니다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3112bdd0-b10f-4e8e-8931-ffaff9f4da12/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3112bdd0-b10f-4e8e-8931-ffaff9f4da12/Untitled.png)
 
 **프레임 워크 모듈**
 
