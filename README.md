@@ -10,6 +10,7 @@
 
 #### [부스트코스] 모두를 위한 컴퓨터 과학 (CS50 2019)
 - [컴퓨팅 사고](https://github.com/jiyoungbkim/TIL/blob/master/CS50/ComputationalThinking.md)
+- [C언어](https://github.com/jiyoungbkim/TIL/blob/master/CS50/C_basic.md)
 
 ### JavaScript
 - [JavaScript 기초](https://github.com/jiyoungbkim/TIL/blob/master/JavaScript/javaScript_basic.md)
