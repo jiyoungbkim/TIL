@@ -7,7 +7,7 @@
 - [컴퓨팅 사고](https://github.com/jiyoungbkim/TIL/blob/master/CS50/ComputationalThinking.md)
 - [C언어](https://github.com/jiyoungbkim/TIL/blob/master/CS50/C_basic.md)
 
-### HTML/CSS 
+### FRONT-END
 #### [부스트코스] 비전공자를 위한 HTML/CSS
 - [HTML 이해하기](https://github.com/jiyoungbkim/TIL/blob/master/HTML&CSS/html_basic.md)
 - [HTML 태그 요약](https://github.com/jiyoungbkim/TIL/blob/master/HTML&CSS/html_tag.md)
