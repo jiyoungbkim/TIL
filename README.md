@@ -6,7 +6,7 @@
 #### [부스트코스] 모두를 위한 컴퓨터 과학 (CS50 2019)
 - [컴퓨팅 사고](https://github.com/jiyoungbkim/TIL/blob/master/CS50/ComputationalThinking.md)
 - [C언어](https://github.com/jiyoungbkim/TIL/blob/master/CS50/C_basic.md)
-- [배열]()
+- [배열](CS50/Array.md)
 
 ### FRONT-END
 #### [부스트코스] 비전공자를 위한 HTML/CSS
