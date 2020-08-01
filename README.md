@@ -11,8 +11,8 @@
 ### FRONT-END
 #### [부스트코스] 비전공자를 위한 HTML/CSS
 - [HTML 이해하기](HTML&CSS/html_basic.md)
-- [HTML 태그 요약](https://github.com/jiyoungbkim/TIL/blob/master/HTML&CSS/html_tag.md)
-- [CSS 이해하기](https://github.com/jiyoungbkim/TIL/blob/master/HTML&CSS/css_basic.md)
+- [HTML 태그 요약](HTML&CSS/html_tag.md)
+- [CSS 이해하기](HTML&CSS/css_basic.md)
 
 ### JavaScript
 - [JavaScript 기초](https://github.com/jiyoungbkim/TIL/blob/master/JavaScript/javaScript_basic.md)
