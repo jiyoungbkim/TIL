@@ -7,6 +7,7 @@
 - [컴퓨팅 사고](CS50/ComputationalThinking.md)
 - [C언어](CS50/C_basic.md)
 - [배열](CS50/Array.md)
+- [알고리즘](CS50/Argorithm.md)
 
 ### FRONT-END
 #### [부스트코스] 비전공자를 위한 HTML/CSS
