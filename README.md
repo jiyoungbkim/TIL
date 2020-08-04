@@ -16,11 +16,11 @@
 - [CSS 이해하기](HTML&CSS/css_basic.md)
 
 ### JavaScript
-- [JavaScript 기초](https://github.com/jiyoungbkim/TIL/blob/master/JavaScript/javaScript_basic.md)
+- [JavaScript 기초](JavaScript/javaScript_basic.md)
 
 ### BACK-END
 ### Spring FrameWork
-- [Spring이란?](https://github.com/jiyoungbkim/TIL/blob/master/Spring%20Framework/Spring_basic.md)
+- [Spring이란?](Spring%20Framework/Spring_basic.md)
 ### Git
 - [로컬에 생성한 파일을 cmd를 이용하여 깃허브로 커밋하기](https://github.com/jiyoungbkim/TIL/blob/master/Git/local_to_git.md)
 - [맥북 Git 설치의 다양한 방법(feat.삽질)](https://github.com/jiyoungbkim/TIL/blob/master/Git/git_set_mac.md)
