@@ -24,4 +24,4 @@
 - [Spring이란?](Spring%20Framework/Spring_basic.md)
 ### Git
 - [로컬에 생성한 파일을 cmd를 이용하여 깃허브로 커밋하기](Git/local_to_git.md)
-- [맥북 Git 설치의 다양한 방법(feat.삽질)](https://github.com/jiyoungbkim/TIL/blob/master/Git/git_set_mac.md)
+- [맥북 Git 설치의 다양한 방법(Git/git_set_mac.md)
