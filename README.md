@@ -26,6 +26,8 @@
 ### JSP&Servlet
 #### [백견불여일타]
 - [1장. 서블릿과 JSP개요](JSP&Servlet/JSP&Servlet_outline.md)
+- [2장. 서블릿의 기초](JSP&Servlet/JSP&Servlet_basic.md)
+
 ### Spring FrameWork
 - [Spring이란?](Spring%20Framework/Spring_basic.md)
 ### Git
