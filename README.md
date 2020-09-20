@@ -17,6 +17,7 @@
 - [CSS 이해하기](HTML&CSS/css_basic.md)
 
 ### JavaScript
+#### [생활코딩] 자바스크립트 
 - [JavaScript 기초](JavaScript/javaScript_basic.md)
 
 ### BACK-END
