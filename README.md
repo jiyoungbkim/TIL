@@ -23,6 +23,7 @@
 ### BACK-END
 ### Java
 - [String 클래스 기본 메소드](Java/String_basicMethod.md)
+- [Math 클래스 기본 메소드](Java/Math_basicMethod.md)
 
 ### JSP&Servlet
 #### [백견불여일타]
