@@ -17,7 +17,7 @@
 - [CSS 이해하기](HTML&CSS/css_basic.md)
 
 ### JavaScript
-- [JavaScript 기초](JavaScript/javaScript_basic.md)
+#### [fastcampus] 벨로퍼트와 함께하는 모던자바스크립트
 - [조건문](JavaScript/ConditionalStatement.md)
 - [함수](JavaScript/function.md)
 
