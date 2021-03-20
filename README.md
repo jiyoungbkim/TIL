@@ -18,6 +18,7 @@
 
 ### JavaScript
 #### [fastcampus] 벨로퍼트와 함께하는 모던자바스크립트
+- [변수](JavaScript/Variable.md)
 - [조건문](JavaScript/ConditionalStatement.md)
 - [함수](JavaScript/function.md)
 
