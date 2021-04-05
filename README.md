@@ -28,7 +28,7 @@
 - [환경설정](React/Set.md)
 - [JSX](React/JSX.md)
 - [props](React/props.md)
-- [조건부 렌더링](Reacr/render.md)
+- [조건부 렌더링](React/render.md)
 
 ### BACK-END
 ### Java
